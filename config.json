@@ -1,11 +1,12 @@
 {
-  "latestVersionCode": 15,
-  "latestVersionName": "1.0.14",
-  "apkUrl": "https://github.com/Murad-creation/green-net-updates/releases/download/v1.0.14/green-net.apk",
+  "latestVersionCode": 17,
+  "latestVersionName": "1.0.16",
+  "apkUrl": "https://github.com/Murad-creation/green-net-updates/releases/download/v1.0.16/green-net.apk",
   "relayUrl": "https://geen-net-relay.onrender.com",
   "movieUrl": "https://dhakamovie.com",
   "notice": "",
   "contactNumbers": [],
   "paymentNumber": "",
-  "paymentMethod": ""
+  "paymentMethod": "",
+  "sheetUrl": "https://script.google.com/macros/s/AKfycbwxb6Rd2N65aD5RvBrqHp2TMPmrc_srulKZzT6qEQqfvzmkDjXBDKm5hkrRuqLwePH0ig/exec"
 }
